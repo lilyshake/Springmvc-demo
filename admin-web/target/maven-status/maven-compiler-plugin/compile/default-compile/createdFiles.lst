@@ -1,6 +1,0 @@
-com/admin/controller/PageController.class
-com/admin/controller/LoginController.class
-com/admin/filter/loginFilter.class
-com/admin/controller/UserController.class
-com/admin/controller/NoticeManageController.class
-com/admin/controller/LogController.class

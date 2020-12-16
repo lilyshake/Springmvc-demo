@@ -1,8 +1,0 @@
-com/admin/service/NoticeService.class
-com/admin/service/LogService.class
-com/admin/service/impl/UserLoginServiceImpl.class
-com/admin/service/impl/LogServiceImpl.class
-com/admin/service/impl/UserManageServiceImpl.class
-com/admin/service/UserManageService.class
-com/admin/service/impl/NoticeServiceImpl.class
-com/admin/service/UserLoginService.class

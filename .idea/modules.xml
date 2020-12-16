@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin.iml" filepath="$PROJECT_DIR$/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-bean/admin-bean.iml" filepath="$PROJECT_DIR$/admin-bean/admin-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-common/admin-common.iml" filepath="$PROJECT_DIR$/admin-common/admin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-mapper/admin-mapper.iml" filepath="$PROJECT_DIR$/admin-mapper/admin-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-parent/admin-parent.iml" filepath="$PROJECT_DIR$/admin-parent/admin-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-service/admin-service.iml" filepath="$PROJECT_DIR$/admin-service/admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-utils/admin-utils.iml" filepath="$PROJECT_DIR$/admin-utils/admin-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-web/admin-web.iml" filepath="$PROJECT_DIR$/admin-web/admin-web.iml" />
+    </modules>
+  </component>
+</project>

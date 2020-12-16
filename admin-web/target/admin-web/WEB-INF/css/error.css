@@ -1,0 +1,58 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    font-family: "PingFang SC", "Lantinghei SC", "Microsoft YaHei", "HanHei SC", "Helvetica Neue", "Open Sans", Arial, "Hiragino Sans GB", "微软雅黑", STHeiti, "WenQuanYi Micro Hei", SimSun, sans-serif;
+    background: #efefef;
+    overflow: hidden;
+}
+
+div#mother {
+    width: 943px;
+    height: 572px;
+    position: relative;
+}
+
+div#errorBox {
+    background: url(../images/404_bg.png) no-repeat top left;
+    width: 943px;
+    height: 572px;
+    margin: auto;
+}
+
+div#errorText {
+    color: #39351e;
+    padding: 146px 0 0 446px
+}
+
+div#errorText p {
+    width: 303px;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+div.link { /*background:#f90;*/
+    height: 50px;
+    width: 145px;
+    float: left;
+}
+
+div#home {
+    margin: 20px 0 0 444px;
+}
+
+div#contact {
+    margin: 20px 0 0 25px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 35px;
+}
